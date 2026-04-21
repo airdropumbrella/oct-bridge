@@ -16,6 +16,15 @@ It handles the full flow in a single command: signing and submitting a `lock_to_
 
 ## Installation
 
+Clone this repository:
+
+```bash
+git clone https://github.com/airdropumbrella/oct-bridge.git
+cd oct-bridge
+```
+
+Install dependencies:
+
 ```bash
 pip install web3 requests eth-abi pynacl
 ```

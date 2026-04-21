@@ -141,3 +141,10 @@ python bot.py --amount 10 --wait-header 1800 --send --json
 | `simulation failed` | Retry after a few minutes, or use `--auto-claim-after-reset` |
 | `bridge contract is currently paused` | The bridge is under maintenance — try again later |
 | `ETH_PRIVATE_KEY is not set` | Fill in `ETH_PRIVATE_KEY` in your `.env` file |
+
+---
+
+## Credits
+
+- **Original script** — [@ylasgamers](https://t.me/ylasgamers)
+- **Revised by** — [@BoresX](https://t.me/BoresX) | Channel: [@AirdropUmbrellaX](https://t.me/AirdropUmbrellaX)
